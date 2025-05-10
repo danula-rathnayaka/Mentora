@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/Mentora.egg-info/PKG-INFO
+src/Mentora.egg-info/SOURCES.txt
+src/Mentora.egg-info/dependency_links.txt
+src/Mentora.egg-info/top_level.txt
